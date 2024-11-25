@@ -1,7 +1,7 @@
 # python runtime. I have using 3.11 because on this environment only I have built this app 
 FROM python:3.11-slim
 
-# Set the working directory
+# the working directory
 WORKDIR /app
 
 # requirements
